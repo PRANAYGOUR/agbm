@@ -1,0 +1,73 @@
+[
+  {
+    "Name": "John Doe",
+    "Email": "johndoe@example.com",
+    "Phone": "123-456-7890",
+    "Address": {
+      "Street": "123 Main St",
+      "City": "Anytown",
+      "State": "CA",
+      "Zip": "12345"
+    },
+    "DateOfBirth": "1990-01-01",
+    "Gender": "Male",
+    "MemberId": "123456"
+  },
+  {
+    "Name": "Jane Smith",
+    "Email": "janesmith@example.com",
+    "Phone": "098-765-4321",
+    "Address": {
+      "Street": "456 Elm St",
+      "City": "Othertown",
+      "State": "NY",
+      "Zip": "67890"
+    },
+    "DateOfBirth": "1992-02-15",
+    "Gender": "Female",
+    "MemberId": "789012"
+  },
+  {
+    "Name": "Bob Johnson",
+    "Email": "bobjohnson@example.com",
+    "Phone": "555-123-4567",
+    "Address": {
+      "Street": "789 Oak St",
+      "City": "Thistown",
+      "State": "TX",
+      "Zip": "34567"
+    },
+    "DateOfBirth": "1985-03-20",
+    "Gender": "Male",
+    "MemberId": "345678"
+  },
+  {
+    "Name": "Alice Brown",
+    "Email": "a@gmail.com",
+    "Phone": "222-333-4444",
+    "Address": {
+      "Street": "321 Maple St",
+      "City": "That town",
+      "State": "FL",
+      "Zip": "90123"
+    },
+    "DateOfBirth": "1995-04-12",
+    "Gender": "Female",
+    "MemberId": "567890"
+  },
+  {
+    "Name": "Mike Davis",
+    "Email": "mikedavis@example.com",
+    "Phone": "666-777-8888",
+    "Address": {
+      "Street": "901 Pine St",
+      "City": "This town",
+      "State": "IL",
+      "Zip": "45678"
+    },
+    "DateOfBirth": "1980-05-25",
+    "Gender": "Male",
+    "MemberId": "901234"
+  }
+  
+]
